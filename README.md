@@ -33,6 +33,11 @@ Then go to your Plugins screen and click __Activate__.
 1. Use the Calendar with Categories widget in your sidebar.
 1. Choose a category from the dropdown to limit posts from a certain category.
 
+## Screenshot
+
+![The widget with additional category selector.](https://raw.github.com/GaryJones/Calendar-Category/master/screenshot-1.png)  
+_The widget with additional category selector._
+
 ## Credits ##
 
 Built by [Gary Jones](https://twitter.com/GaryJ)  
